@@ -1,4 +1,3 @@
-```java
 package MyThread;
 
 
@@ -25,5 +24,3 @@ class MyThread extends Thread {
         System.out.println("After changing name of t1:" + t1.getName());
     }
 }
-```
-![untitled1](https://user-images.githubusercontent.com/36805996/36637884-b1e57506-1a20-11e8-8315-4287b7750c5b.png)
